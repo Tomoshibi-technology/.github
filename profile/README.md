@@ -1,4 +1,4 @@
-## -Tomosibi Technology-
+## Tomosibi Technology
 
 さまざまなロボットや装置を開発している、学生団体です。
 2023年10月現在、高校3年生4人で活動しています。
