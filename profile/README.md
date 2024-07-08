@@ -3,6 +3,9 @@
 ## Overview
 We are creating a new experience and a team of 3 university students.
 
+We publish our progress on Twitter.
+
+https://x.com/TomoshibiTech
 
 <!-- 
 計算機の新たな表現手法を開発しています。
