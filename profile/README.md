@@ -1,6 +1,10 @@
 # Tomosibi Technology
 
 ## Overview
+We are creating a new experience and a team of 3 university students.
+
+
+<!-- 
 計算機の新たな表現手法を開発しています。
 2023年12月現在、高校3年生4人で活動しています。
 
@@ -25,3 +29,4 @@
 2023/12 THKものづくり0.賞成果報告会 発表
 
 2023/12 RCJ南埼玉ノード2023 プレゼンテーション賞
+--!>
